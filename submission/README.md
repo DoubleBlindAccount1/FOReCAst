@@ -1,4 +1,4 @@
-# FOReCAst: Professional OOP Forecasting Evaluation Pipeline
+# FOReCAst: The Future Outcome Reasoning and Confidence Assessment Benchmark
 
 ---
 
